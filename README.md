@@ -1,0 +1,2 @@
+# SeaChess
+Simple Java Game
